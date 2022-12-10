@@ -1,0 +1,125 @@
+@media(max-width:480px)
+
+*
+
+{
+    margin:0%;
+    box-sizing:border-box;
+}
+.main
+{
+    height: 80px;
+    width: 100%;
+    background-color: white!important;
+    display: flex;
+}
+.main img
+{
+    height: 80px;
+    width: 20%;
+}
+.call
+{
+    height: 80px;
+    width: 100%;
+    padding-left: 51%;
+    padding-top: 3%;
+}
+.section
+{
+    height: 500px;
+    width: 100%;
+}
+.section img
+{
+    height: 500px;
+    width: 100%;
+    padding-left: 1px;
+}
+.content
+{
+    margin-top: 2px;
+    height: 300px;
+    width: 100%;
+}
+.content img
+{
+    height: 300px;
+    width: 100%;
+    border: 2px solid grey  ;
+}
+.forms
+{
+    height: 279px;
+    background-color: white;
+    width: 100%;
+}
+.address
+{
+    height: 40px;
+    background-color:  darkblue!important;
+    width: 150px;
+    color: white;
+    padding-top: 5px;
+   
+}
+input
+{
+    margin-left: 1%;
+    height: 50px;
+    width: 400px;
+    border-radius: 7px;
+}
+.testride
+{
+    width: 100%;
+    height:400px;
+}
+.test
+{
+    background-color: darkblue;
+    color: white;
+    width: 28%;
+    height: 40px;
+    padding-top: 6px;
+    padding-left: 2px;
+}
+.p1
+{
+   padding-top: 40px;
+   padding-left: 14px;
+}
+.p1,span
+{
+  padding-left: 14px;
+  
+}
+pre
+{
+    font-size: 20px;
+}
+.footer
+{
+    background-color: rgb(28,27,27);
+    height: 153px;
+    width: 100%;
+    margin-top: 70px;
+}
+.footer,img
+{
+    padding-left: 13px;
+    padding-top: 18px;
+}
+.footer,b
+{
+color: white;
+font-size: 14px;  
+padding-left: 25px; 
+   
+}
+p,h1
+{
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: justify;
+}

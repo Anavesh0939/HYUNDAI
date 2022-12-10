@@ -1,0 +1,172 @@
+
+*
+{
+    margin: 0%;
+
+}
+.header
+{
+    height: 150px;
+    width: 100%;
+   
+    display: flex;
+}
+.logo
+{
+    height: 150px;
+    width: 20%;
+}
+.logo img
+{
+    height: 150px;
+    width: 100%;
+}
+.name
+{
+    height: 150px;
+    width: 80%;
+    padding-left: 9px;
+ 
+}
+.icon
+{
+    height: 75px;
+    width: 40%;
+    padding-left: 73%;
+   
+}
+.nav 
+{
+    display: flex;
+    height: 75px;
+    margin: 0%;
+    padding: 0%;
+    padding-left: 22%;
+    margin-top: 42px;
+    font-size: 24px;
+}
+.navlist
+{
+    list-style: none;
+    padding: 10px 20px;
+}
+.section
+{
+    margin-top: 5px;
+    height: 350px;
+    width: 100%;
+}
+.section img
+{
+
+    height: 350px;
+    width: 100%;
+}
+.content
+{
+    height: 200px;
+    width: 100%;
+}
+.content h1
+{
+    text-align: center;
+}
+.content h2
+{
+    text-align: center;
+}
+.content h3
+{
+    text-align: center;
+    font-weight: normal;
+}
+.gallery
+{
+    height: 300px;
+    width: 100%;
+    display: flex;
+}
+.gallery .g1
+{
+    height: 400px;
+    width: 40%;
+    margin-left: 86px;
+}
+.g1 img
+{
+    height: 400px;
+    width: 100%;
+    padding-left: 10px;
+
+}
+.gallery .g2
+{
+    height: 400px;
+    width: 44%;
+    margin-left: 47px;
+
+}
+.g2 img
+{
+    height: 400px;
+    width: 100%;
+  
+}
+ li:hover
+{
+  background-color: whitesmoke;
+  color: black;
+}   
+.footer
+
+{
+ margin-top: 7%;
+ height: 500px;
+ width: 100%;
+ background-color: gray;
+}
+.f1
+{
+    height: 500px;
+    width: 30%;
+
+}
+.f1 img
+{
+    margin-top: 5px;
+    padding-left: 5%;
+}
+.fmenu
+{
+    height: 500px;
+    width: 30%;
+}
+.fmenulist
+{
+    list-style: none;
+    color: antiquewhite;
+    padding: 20px;
+
+}
+.F2
+{
+    height: 500px;
+    width: 30%;
+
+}
+.f2 h3
+{
+    width: 30%;
+
+}
+.f3
+{
+     height: 500px;
+     width: 40%;
+}
+iframe
+{
+    height: 500px;
+    width: 100%;
+    
+}
